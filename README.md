@@ -23,6 +23,7 @@ Create a directory named "MyLab" on the desktop.
 
 ## COMMAND AND OUTPUT
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
+
 ![Screenshot 2024-11-06 052735](https://github.com/user-attachments/assets/91301663-46d7-4f11-9f97-e2cda96875d7)
 
 ## COMMAND AND OUTPUT
@@ -36,6 +37,7 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 ## COMMAND AND OUTPUT
 Move the "MyLab" directory to the "Documents" folder.
 ![Screenshot 2024-11-06 052806](https://github.com/user-attachments/assets/637b0546-2335-4529-b57b-d391cb44a74c)
+
 ![Screenshot 2024-11-06 052818](https://github.com/user-attachments/assets/f801223e-84e3-47f8-8fed-95cf33399a42)
 
 ## COMMAND AND OUTPUT
